@@ -1,4 +1,4 @@
 # GitDemo
 Learning Git
 <br>
-Author- Sradha Mohanty
+Author- Sradha Mohanty (GITA)
